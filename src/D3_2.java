@@ -31,6 +31,12 @@ public class D3_2 {
                 "\nХобби:             "+hobb);
         System.out.println("==========================");
 
+        System.out.println
+                (name+" - имя\n" +
+                 adrs+" - город\n" +
+                  age+" - возраст\n" +
+                 hobb+" - хобби");
+
         System.out.println((char) 27 + "[31m\n\nThanks for the information provided,\n and now we will blow up your house " + (char)27 + "[0m");
 
 
